@@ -16,13 +16,15 @@
 </p>
 
 ### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyawZin-boop&layout=compact&theme=radical)
+<p align="center">
+  <img height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyawZin-boop&layout=compact&theme=radical">
+</p>
 
 ---
 
 <p align="center">
-  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=react&hide_border=true">
 </p>
 
 ---
