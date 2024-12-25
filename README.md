@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<p align="center">
 ### Languages and Tools:
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
@@ -24,8 +24,8 @@
 ---
 
 <p align="center">
-  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=react&show_icons=true&hide_border=true&count_private=true">
-  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=react&hide_border=true">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=radical&show_icons=true&hide_border=true&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=radical&hide_border=true">
 </p>
 
 ---
