@@ -15,12 +15,15 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40"/>
 </p>
 
-### GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=KyawZin-boop&show_icons=true&theme=radical)
-
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KyawZin-boop&layout=compact&theme=radical)
 
-### GitHub Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KyawZin-boop)](https://git.io/streak-stats)
+---
+
+<p align="center">
+  <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=sannlynnhtun-coding&theme=react&show_icons=true&hide_border=true&count_private=true">
+  <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=sannlynnhtun-coding&theme=react&hide_border=true">
+</p>
+
+---
 
