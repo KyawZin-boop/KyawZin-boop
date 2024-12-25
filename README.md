@@ -15,7 +15,6 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40"/>
 </p>
 
-### Top Languages
 <p align="center">
   <img height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyawZin-boop&layout=compact&theme=radical">
 </p>
