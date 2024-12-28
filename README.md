@@ -19,7 +19,6 @@
   <img height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KyawZin-boop&layout=compact&theme=radical">
 </p>
 
----
 ## 📊 Github Stats
 <p align="center">
   <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=radical&show_icons=true&hide_border=true&count_private=true">
