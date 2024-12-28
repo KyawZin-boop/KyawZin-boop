@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>I'm an <b>introvert</b> with a <i><b>soft heart</b></i>, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be reserved at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
+<p>I'm an <b>introvert</b> with a <i><b>soft heart</b></i>, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be <b>reserved</b> at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
 </p>
 
 ## 💻 Languages and Tools 
@@ -25,6 +25,4 @@
   <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=radical&show_icons=true&hide_border=true&count_private=true">
   <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=radical&hide_border=true">
 </p>
-
----
 
