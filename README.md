@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>I'm an introvert with a soft heart, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be reserved at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
+<p>I'm an **introvert** with a *soft heart*, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be reserved at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
 </p>
 
 ## 💻 Languages and Tools 
@@ -12,7 +12,6 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
-    <img src="https://greensock.com/logo.png" alt="GSAP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MSSQL" width="40" height="40"/>
 </p>
