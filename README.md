@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Languages and Tools:
+# Languages and Tools:
 <p align="center">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="40" height="40"/>
@@ -20,7 +20,7 @@
 </p>
 
 ---
-### Github Stats:
+# Github Stats:
 <p align="center">
   <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api?username=KyawZin-boop&theme=radical&show_icons=true&hide_border=true&count_private=true">
   <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=radical&hide_border=true">
