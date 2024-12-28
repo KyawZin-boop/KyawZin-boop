@@ -1,5 +1,5 @@
 # Hi there 👋
-<p>I'm an **introvert** with a *soft heart*, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be reserved at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
+<p>I'm an <b>introvert</b> with a <i>soft heart</i>, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections and quiet moments. While I may be reserved at first, I value authenticity and kindness, striving to bring a touch of warmth and understanding to everything I do.
 </p>
 
 ## 💻 Languages and Tools 
