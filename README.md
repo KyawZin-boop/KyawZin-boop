@@ -30,7 +30,7 @@
   <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=radical&hide_border=true">
 </p>
 
-## Github-Profile-Trophy
+## 🏆 Github-Profile-Trophy
 <p align="center">
     <img height="160px" width="100%" src="https://github-profile-trophy.vercel.app/?username=KyawZin-boop&theme=onedark">
 </p>
