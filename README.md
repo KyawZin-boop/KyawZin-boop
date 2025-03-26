@@ -30,6 +30,11 @@
   <img height="160px" width="48%" src ="https://github-readme-streak-stats.herokuapp.com/?user=KyawZin-boop&theme=radical&hide_border=true">
 </p>
 
+## Githun-Profile-Trophy
+<p align="center">
+    <img height="160px" width="48%" src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark">
+</p>
+
 ## 🌐 Socials:
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/killua77)
