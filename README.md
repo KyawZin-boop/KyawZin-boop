@@ -1,6 +1,10 @@
 # Hi there 👋
 <p>I'm an <b>introvert</b> with a <i><b>soft heart</b></i>, deeply thoughtful and empathetic. I find joy in helping others, meaningful connections, and quiet moments. While I may be <b>reserved</b> at first, I value authenticity and kindness, striving to bring warmth and understanding to everything I do.
 </p>
+<p>☕ Powered by coffee, love, and the <b>prettiest smile</b> I’ve ever seen.</p>
+<p>✨ Writing code, living dreams, dating a <b>Queen</b>.</p>
+<p>🚀 My projects? Cool. My girlfriend? <b>Cooler</b>.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KyawZin-boop&label=Profile%20views&color=0e75b6&style=flat" alt="kyaw-zin-thant" /> </p>
 
 ## 💻 Languages and Tools 
